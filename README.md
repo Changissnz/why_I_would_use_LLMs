@@ -105,7 +105,8 @@ as empire, heroism, bureaucratic ambition, cooperation between competing interes
 - `Such Humility, Such Loyalty`
 - `This is Still Empire`
 - `The Effects of the Impressions Remain`
-- `Ask Yourself if Red State is For You`. 
+- `Ask Yourself if Red State is For You`.
+  
 The project `Richard Understands` is an exaggerated comic of my time during the past 13 years or so navigating the "greatest country on Earth". 
 
 Although I was able to get more of this material produced with the help of LLMs, I actually lost enjoyment during the creation process of these projects. Looking back, I also do not carry 
