@@ -126,7 +126,7 @@ original Google search engine for human autonomy. The original Google search eng
 a calculus network engine, practically. The Greek tale of Narcissus, anyone? 
 
 I also think that the capabilities of commercial LLMs released since around 2022 are a significant hallmark of American democratization. American media used to be so centralized, from my perspective. 
-I used to have to watch Family Guy on Saturday/Sunday nights for some entertainment. Platforms such as Youtube offered choice and timely convenience. LLMs offer consumers a channel to produce what 
+I used to have to watch Family Guy on Saturday/Sunday nights for some entertainment. Then platforms such as Youtube offered choice and timely convenience. LLMs offer consumers a channel to produce what 
 they do not want to fully produce but also have the time and energy to consume, in a sense. And I think this new capability is neat for entertainment purposes. On the matter of scientific endeavors, 
 however, I think LLMs are not that impressive. A lab assistant at best. Used to do things such as clean up datasets, which is no joke in terms of human effort. But LLMs are really more like calculators 
 and automatons in scientific and engineering work, or a user interface. 
