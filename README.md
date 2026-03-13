@@ -10,15 +10,15 @@ weapon systems and the destruction of the job market.
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
 - [Social Commentary on American Travesty](https://github.com/Changissnz/social_commentary_on_American_travesty__claude_generated)
+  - source: Claude Sonnet 4.6 
   - Social critique on American imperialism and its Ancient Roman precedent.
-  - Claude Sonnet 4.6 
 - [The Social Tragedies Chronicles](https://github.com/Changissnz/the_social_tragedies_chronicles__claude_generated)
+  - source: Claude Sonnet 4.6 
   - Narratives on topics such as the lack of consistency in civilizational order, questionable
     activity, technology and progressivism, and societal decline.
-  - Claude Sonnet 4.6 
 - [Try Leveraging This](https://github.com/Changissnz/try_leveraging_this)
-  - A cartoon showing the volatility of crypto-currency and the disappointment of the contagion of speculation.
   - source: Google Gemini 
+  - A cartoon showing the volatility of crypto-currency and the disappointment of the contagion of speculation.
 - [Such Utter Romantics of Florida: Of Fiction and Fantasia](https://github.com/Changissnz/such_utter_romantics_of_florida__of_Fiction_and_fantasia)
   - source: Claude Sonnet 4.5 
   - A fictional novel, touching on crime, heroism, love and status, that takes place in Florida.
