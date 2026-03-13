@@ -131,7 +131,7 @@ they do not want to fully produce but also have the time and energy to consume, 
 however, I think LLMs are not that impressive. A lab assistant at best. Used to do things such as clean up datasets, which is no joke in terms of human effort. But LLMs are really more like calculators 
 and automatons in scientific and engineering work, or a user interface. 
 
-I'd venture to say that the more inward and self-ordained developed countries such as the United States becomes, the more chance these LLM technologies have to culturally backfire. But overall, I do not 
+I'd venture to say that the more inward and self-ordained developed countries such as the United States become, the more chance these LLM technologies have to culturally backfire. But overall, I do not 
 share the same concerns as professional software engineers, media companies, and artists on LLMs. I guess I have my own sense of self-worth when it comes to such subjective things as identity, and 
 areas such as labor and nationalism and all that. 
 
