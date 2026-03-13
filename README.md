@@ -9,80 +9,80 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
-- [Social Commentary on American Travesty]https://github.com/Changissnz/social_commentary_on_American_travesty__claude_generated
+- [Social Commentary on American Travesty](https://github.com/Changissnz/social_commentary_on_American_travesty__claude_generated)
   - Social critique on American imperialism and its Ancient Roman precedent.
   - Claude Sonnet 4.6 
-- [The Social Tragedies Chronicles]https://github.com/Changissnz/the_social_tragedies_chronicles__claude_generated
+- [The Social Tragedies Chronicles](https://github.com/Changissnz/the_social_tragedies_chronicles__claude_generated)
   - Narratives on topics such as the lack of consistency in civilizational order, questionable
     activity, technology and progressivism, and societal decline.
   - Claude Sonnet 4.6 
-- [Try Leveraging This]https://github.com/Changissnz/try_leveraging_this
+- [Try Leveraging This](https://github.com/Changissnz/try_leveraging_this)
   - A cartoon showing the volatility of crypto-currency and the disappointment of the contagion of speculation.
   - source: Google Gemini 
-- [Such Utter Romantics of Florida: Of Fiction and Fantasia]https://github.com/Changissnz/such_utter_romantics_of_florida__of_Fiction_and_fantasia
+- [Such Utter Romantics of Florida: Of Fiction and Fantasia](https://github.com/Changissnz/such_utter_romantics_of_florida__of_Fiction_and_fantasia)
   - source: Claude Sonnet 4.5 
   - A fictional novel, touching on crime, heroism, love and status, that takes place in Florida.
--  [Is This Legal]https://github.com/Changissnz/is_this_legal
+-  [Is This Legal](https://github.com/Changissnz/is_this_legal)
   - source: Google Gemini 
   - A cartoon showing a violent armed madman attacking the public sector.
-- [Richard Understands]https://github.com/Changissnz/richard_understands
+- [Richard Understands](https://github.com/Changissnz/richard_understands)
   - source: Google Gemini 
   - A comic book on a fictionalized version of me after going through debacles and sub-prime circumstances (exaggerated),
     from 2013 to the beginning of 2026. 
-- [Dark Side Richard]https://github.com/Changissnz/dark_side_richard
+- [Dark Side Richard](https://github.com/Changissnz/dark_side_richard)
   - source: Google Gemini 
   - A comic book featured a "dark side" version of myself (Shin Apath Richard), as my fictional version climbs up the rungs of
     the imperial power structure.
-- [Such Humility, Such Loyalty]https://github.com/Changissnz/such_humility_such_loyalty
+- [Such Humility, Such Loyalty](https://github.com/Changissnz/such_humility_such_loyalty)
   - source: Google Gemini
   - A comic book featuring a servile Asian man willing to make a deal with the Devil for blood.
-- [More Tribute, More Hatred]https://github.com/Changissnz/more_tribute_more_hatred
+- [More Tribute, More Hatred](https://github.com/Changissnz/more_tribute_more_hatred)
   - source: Google Gemini
   - A series of comics, with my commentary on what happens when some hands get overextended.
-- [Collusion Exposed is Collusion]https://github.com/Changissnz/collusion_exposed_is_collusion
+- [Collusion Exposed is Collusion](https://github.com/Changissnz/collusion_exposed_is_collusion)
   - source: Google Gemini
   - A series of comics, demonstrating why cooperation is not always a good thing and the existence of secret societies.
-- [Ask Yourself if Red State is For You]https://github.com/Changissnz/ask_yourself_if_red_state_is_for_you
+- [Ask Yourself if Red State is For You](https://github.com/Changissnz/ask_yourself_if_red_state_is_for_you)
   - source: Grok 3 LLM
   - A series of comics, showing why base societies tend towards autocracy, and through implicit converse, why democracy is
     ideal. 
-- [This is Still Empire]https://github.com/Changissnz/this_is_still_empire
+- [This is Still Empire](https://github.com/Changissnz/this_is_still_empire)
   - source: Grok 3 LLM
   - A series of comics showing the misconceptions and secret conversations that come from cultural expansion and diversity measures,
     as well as first world problems solved wrong. 
-- [The Effects of the Impressions Remain]https://github.com/Changissnz/the_effects_of_the_impressions_remain
+- [The Effects of the Impressions Remain](https://github.com/Changissnz/the_effects_of_the_impressions_remain)
   - source: ChatGPT
   - A series of comics shedding humor on chauvinism, love triangles, militarism, and societal order.
-- [Pokemon Hoenn Region Tribute]https://github.com/Changissnz/pokemon_hoenn_region_tribute
+- [Pokemon Hoenn Region Tribute](https://github.com/Changissnz/pokemon_hoenn_region_tribute)
   - source: Grok 3 LLM
   - Some cartoons of Rayquasa schooling both Red And Blue. 
-- [X Janissary Account: Grok Analysis]https://github.com/Changissnz/X_janissary_account__GROK_analysis
+- [X Janissary Account: Grok Analysis](https://github.com/Changissnz/X_janissary_account__GROK_analysis)
   - source: Grok 3 LLM
   - Shows some analyses conducted by Grok 3 on my X account, an account of my role as a Janissary in the context of such culture that
     includes the Mauryan Empire.
-- [ChatGPT Conspiracy Chronicles]https://github.com/Changissnz/chatgpt_conspiracy_chronicles
+- [ChatGPT Conspiracy Chronicles](https://github.com/Changissnz/chatgpt_conspiracy_chronicles)
   - source: ChatGPT 
   - Features some fictional conspiracies in a dystopian world.
-- [ChatGPT Short Story Compilation]https://github.com/Changissnz/chatgpt_short_story_compilation
+- [ChatGPT Short Story Compilation](https://github.com/Changissnz/chatgpt_short_story_compilation)
   - source: ChatGPT
   - Feature Hollywood-esque tales of how the Great Chain controls and manipulates fictional characters in "until death do us part"
     power struggles. 
-- [WOKE: Bad Glass]https://github.com/Changissnz/WOKE__bad_glass
+- [WOKE: Bad Glass](https://github.com/Changissnz/WOKE__bad_glass)
   - source: ChatGPT
   - A short and crappy story by ChatGPT. 
-- [Yellow]https://github.com/Changissnz/yellow
+- [Yellow](https://github.com/Changissnz/yellow)
   - source: ChatGPT
   - Some answers from ChatGPT when asked questions regarding the symbolism of the color, yellow.
-- [Post Biden Economy]https://github.com/Changissnz/post_biden_economy
+- [Post Biden Economy](https://github.com/Changissnz/post_biden_economy)
   - source: ChatGPT
   - Some articles from ChatGPT showing the extensive arms of contemporary American industry.
-- [The Ghost City Academy]https://github.com/Changissnz/the_ghost_city_academy__claudesonnet4_generated-
+- [The Ghost City Academy](https://github.com/Changissnz/the_ghost_city_academy__claudesonnet4_generated-)
   - source: Claude Sonnet 4
   - A science fiction novel about an apocalyptic war that raged between Northern China/Mongolia and the Southern Orient. Sequel to Silicon Metamorphosis. 
-- [Silicon Metamorphosis: 9-Chemical Test Conspiracy, ASEAN Subplot]https://github.com/Changissnz/silicon_metamorphosis__9-chemical_test_conspiracy_ASEAN_subplot__claudesonnet4_generated
+- [Silicon Metamorphosis: 9-Chemical Test Conspiracy, ASEAN Subplot](https://github.com/Changissnz/silicon_metamorphosis__9-chemical_test_conspiracy_ASEAN_subplot__claudesonnet4_generated)
   - source: Claude Sonnet 4
   - A transnational drama and subplot of the series, 9-Chemical Test Conspiracy, that features the perils of new age alchemy in the ASEAN region, with mentions of Silicon Valley.
-- [The 9-Chemical Test Conspiracy: Collections]https://github.com/Changissnz/the_9-chemical_test_conspiracy__collections
+- [The 9-Chemical Test Conspiracy: Collections](https://github.com/Changissnz/the_9-chemical_test_conspiracy__collections)
   - source: Claude Sonnet 4
   - Some tales of new age alchemy, parallels to the original 9-Chemical Test Conspiracy.
 
