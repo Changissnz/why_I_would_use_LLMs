@@ -23,8 +23,8 @@ Here are my public Github projects that showcase the use of mainstream LLMs:
   - source: Claude Sonnet 4.5 
   - A fictional novel, touching on crime, heroism, love and status, that takes place in Florida.
 -  [Is This Legal](https://github.com/Changissnz/is_this_legal)
-  - source: Google Gemini 
-  - A cartoon showing a violent armed madman attacking the public sector.
+    - source: Google Gemini
+    - A cartoon showing a violent armed madman attacking the public sector.
 - [Richard Understands](https://github.com/Changissnz/richard_understands)
   - source: Google Gemini 
   - A comic book on a fictionalized version of me after going through debacles and sub-prime circumstances (exaggerated),
