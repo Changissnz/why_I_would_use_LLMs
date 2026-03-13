@@ -122,8 +122,8 @@ LLMs is that these are machines that, in simple terms, permute what it already k
 is a natural pattern that is similar to the appearance of the ocean from a bird's eye view. The more LLM content gets disseminated, I predict the more some people will be forced to be more 
 innovative and original and authentic in what they produce and how they present themselves. A pretty woman? A well-spoken man? So what, right? That could be machine-produced with today's LLM technology. 
 However, the widespread dissemination of LLM content also makes it harder for some people to get past these new front-page zones to more niche human content. LLMs are actually way worse than the 
-original Google search engine. The original Google search engine was a door to other people's worlds. LLMs are a synopsis producer, a reflection of the input you give it, and a calculus network 
-engine, practically. The Greek tale of Narcissus, anyone? 
+original Google search engine for human autonomy. The original Google search engine was a door to other people's worlds. LLMs are a synopsis producer, a reflection of the input you give it, and 
+a calculus network engine, practically. The Greek tale of Narcissus, anyone? 
 
 I also think that the capabilities of commercial LLMs released since around 2022 are a significant hallmark of American democratization. American media used to be so centralized, from my perspective. 
 I used to have to watch Family Guy on Saturday/Sunday nights for some entertainment. Platforms such as Youtube offered choice and timely convenience. LLMs offer consumers a channel to produce what 
