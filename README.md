@@ -109,7 +109,7 @@ as empire, heroism, bureaucratic ambition, cooperation between competing interes
   
 The project `Richard Understands` is an exaggerated comic of my time during the past 13 years or so navigating the "greatest country on Earth". 
 
-Although I was able to get more of this material produced with the help of LLMs, I actually lost enjoyment during the creation process of these projects. Looking back, I also do not carry 
+Although I was able to get more of this material produced with the help of LLMs, I actually lost enjoyment during the creation process of these projects. Looking back on them, I also do not carry 
 an equal kind of sentiment I do with my coding projects. All of my coding projects were coded by me without the use of an LLM. This is because I don't code in HTML or write garbage Android 
 apps, areas in programming where an LLM would excel due to the templated nature of these kinds of programming. From my judgment, the cartoon comics I generated actually deliver more sentiment, 
 with less requirement for high-quality input from my end. With writing, I have discovered that LLMs will write the lamest and nicest articles and stories if I do not add in input that specifies 
