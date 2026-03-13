@@ -142,10 +142,10 @@ do not care for a lot of Oriental mentalities in the first place. I know if I to
 Mongolia+company, and then China, Japan, Korea. Looks like a party where getting drunk would be the only good that comes out of it. I'm also quite positive, with all these divisions and classifications, 
 that I got lumped in with the Global South herd. The Global South is... how should I put this politely... not very free nor rational, superstitous and dramatic in the worst ways possible, albeit the 
 commoners there are mostly hard-working and honest. Autocratic mentalities. You know. LLMs offer a great medium for talent of creativity and persistence, without the traditional workforce and command 
-structure, to at least spread the idea if not shine due to the unnatural machine nature of LLM. Now the USA is in a war with Iran, I think I should really just chill out and try to do my own thing. 
-Everyone knows where a lot of the human and tech capital is going to now... another protracted showdown in the Middle East. This is ok by me, truthfully. A few years back, I was always seeing predictions 
-of this large-scale war with China over Taiwan, two countries that are somewhat of cultural scourges, from my perspective. With a lot of the American capital still devoted to the Middle East, I guess China 
-will have to keep on with this commercial war of theirs instead of escalating their animosity into more violent forms. 
+structure, to at least spread the idea if not shine that idea, due to the shortcomings of LLMs' unnatural machine nature. Now the USA is in a war with Iran, I think I should really just chill out and 
+try to do my own thing. Everyone knows where a lot of the human and tech capital is going to now... another protracted showdown in the Middle East. This is ok by me, truthfully. A few years back, I was 
+always seeing predictions of this large-scale war with China over Taiwan, two countries that are somewhat of cultural scourges, from my perspective. With a lot of the American capital still devoted to 
+the Middle East, I guess China will have to keep on with this commercial war of theirs instead of escalating their animosity into more violent forms. 
 
 Back to the main topic of LLMs after this little geopolitical aside. I think LLMs are a great way for the developed world to spend their time in developing products and honing their intellect, as well as 
 entertainment. Times have been austere. Letting out LLMs for public use is the least that the developed world can do at this pivotal stage in history, with all these opinions and politics and noise. A lot 
