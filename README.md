@@ -139,7 +139,7 @@ And one last thing. This new Cold War situation with Russia and China is now in 
 Eurasian unity. But let's look at the facts here. Russian society is now in a doom loop, with the Russia-Ukraine War. China has been using the opportunity to displace Russia as a major player in 
 global affairs, mainly through its CCP-dominated economics. There's not going to be much of a unified Eurasian pact that will reach the United States of America. This is fine by me, since I personally 
 do not care for a lot of Oriental mentalities in the first place. I know if I told my family members I was marrying a Russian woman, they'd probably disapprove. Eurasia, sure...there's Russia, and then 
-Mongolia+company, and then China, Japan, Korea. Looks like a party where getting drunk would be the only good that comes out of it. I'm also quite positive that, with all these divisions and classifications, 
+Mongolia+company, and then China, Japan, Korea. Looks like a party where getting drunk would be the only good that comes out of it. I'm also quite positive, with all these divisions and classifications, 
 that I got lumped in with the Global South herd. The Global South is... how should I put this politely... not very free nor rational, superstitous and dramatic in the worst ways possible, albeit the 
 commoners there are mostly hard-working and honest. Autocratic mentalities. You know. LLMs offer a great medium for talent of creativity and persistence, without the traditional workforce and command 
 structure, to at least spread the idea if not shine due to the unnatural machine nature of LLM. Now the USA is in a war with Iran, I think I should really just chill out and try to do my own thing. 
