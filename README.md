@@ -11,8 +11,7 @@ weapon systems and the destruction of the job market.
 Here are my public Github projects that showcase the use of mainstream LLMs: 
 - [The Charity of Hate](https://github.com/Changissnz/the_charity_of_hate)
   - source: Claude Sonnet 4.6
-  - Fifteen tales on human organization gone wrong. The theme is in line with domestic American security incidents in recent decades.
-  - The tales are not intended to be funny. They are supposed to show how unfunny idiocracies are in the long run. 
+  - Fifteen tales on human organization gone wrong. The theme is in line with domestic American security incidents in recent decades. The tales are not intended to be funny. They are supposed to show how unfunny idiocracies are in the long run. 
 - [Social Commentary on American Travesty](https://github.com/Changissnz/social_commentary_on_American_travesty__claude_generated)
   - source: Claude Sonnet 4.6 
   - Social critique on American imperialism and its Ancient Roman precedent.
