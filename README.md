@@ -34,7 +34,7 @@ Here are my public Github projects that showcase the use of mainstream LLMs:
     from 2013 to the beginning of 2026. 
 - [Dark Side Richard](https://github.com/Changissnz/dark_side_richard)
   - source: Google Gemini 
-  - A comic book featured a "dark side" version of myself (Shin Apath Richard), as my fictional version climbs up the rungs of
+  - A comic book featuring a "dark side" version of myself (Shin Apath Richard), as my fictional version climbs up the rungs of
     the imperial power structure.
 - [Such Humility, Such Loyalty](https://github.com/Changissnz/such_humility_such_loyalty)
   - source: Google Gemini
