@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Advisory Memo](https://github.com/Changissnz/advisory_memo__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An advisory memo, in the likeness from a governmental body, that briefly mentions seven principles for civil society.  
 - [The Charity of Hate](https://github.com/Changissnz/the_charity_of_hate)
   - source: Claude Sonnet 4.6
   - Twenty five tales on human organization gone wrong. The theme is in line with domestic American security incidents in recent decades. The tales are not intended to be funny. They are supposed to show how unfunny idiocracies are in the long run. 
