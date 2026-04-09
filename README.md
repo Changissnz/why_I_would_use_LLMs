@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Fictional 2028 Shoot to Kill Mandate](https://github.com/Changissnz/fictional_2028_shoot_to_kill_mandate__grok_generated)
+  - source: Grok Auto
+  - A fictional Democratic presidential speech, set in the year 2028. Short and to the point. Typical of Democratic idealism, with a strong influence of fanatical Trumpism, aftermath. 
 - [Advisory Memo](https://github.com/Changissnz/advisory_memo__claude_generated)
   - source: Claude Sonnet 4.6
   - An advisory memo, in the likeness from a governmental body, that briefly mentions seven principles for civil society.  
