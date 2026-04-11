@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Police Chief Personal Statement 2028](https://github.com/Changissnz/police_chief_personal_statement_2028__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A personal statement in 2028, given by a police chief on his professional life since the US federal administration's switch to Democrat. 
 - [Fictional US Presidential 2028 Shoot to Kill Mandate](https://github.com/Changissnz/fictional_2028_US_presidential_shoot_to_kill_mandate__grok_generated)
   - source: Grok Auto
   - A fictional Democratic presidential speech, set in the year 2028. Short and to the point. Typical of Democratic idealism, with a strong influence of fanatical Trumpism, aftermath. 
