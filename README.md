@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [One Educated Retro Right Winger](https://github.com/Changissnz/one_educated_retro_right_winger)
+  - source: ChatGPT
+  - A short comic strip about a man's political transformation after an intimate interaction with his professor. 
 - [The Marvel That is Alissia Ortega-Klaros](https://github.com/Changissnz/the_marvel_that_is_Alissia_Ortega-Klaros)
   - source: Claude Sonnet 4.6
   - A short story about a woman married to a Spanish Arabian prince. Set in some unspecified modern time period. 
