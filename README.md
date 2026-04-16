@@ -12,7 +12,7 @@ Here are my public Github projects that showcase the use of mainstream LLMs:
 - [The Right-Wing Cockroach Program](https://github.com/Changissnz/the_rightwing_cockroach_program)
   - source: Claude Sonnet 4.6
   - A short story about a semi-fictional American government program: "accomodations" for immigrant and minority types.
-  - *NOTE* story is not an endorsement of the American Democratic Party. 
+  - *NOTE:* story is not an endorsement of the American Democratic Party. 
 - [Police Chief Personal Statement 2028](https://github.com/Changissnz/police_chief_personal_statement_2028__claude_generated)
   - source: Claude Sonnet 4.6
   - A personal statement in 2028, given by a police chief on his professional life since the US federal administration's switch to Democrat. 
