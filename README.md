@@ -1,7 +1,7 @@
 # Why I Would Use LLMS
 ## written by: Richard Pham 
 
-A short explanation for why someone like me is obliged to jump on the LLM trend; LLMs are here to stay. 
+An explanation for why someone like me is obliged to jump on the LLM trend; LLMs are here to stay. 
 --------------------------------------------------------------------------------------------------------
 
 There are concerns about the rise of LLMs. Specifically, energy usage and cognitive decline are two primary 
