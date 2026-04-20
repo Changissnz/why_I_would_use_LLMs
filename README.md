@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Problems Keep Spilling](https://github.com/Changissnz/the_problems_keep_spilling__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A short story on social organization apparently gone wrong, taking place in the ghetto. 
 - [One Educated Retro Right Winger](https://github.com/Changissnz/one_educated_retro_right_winger)
   - source: ChatGPT
   - A short comic strip about a man's political transformation after an intimate interaction with his professor. 
