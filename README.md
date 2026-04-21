@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [A Tidbit on the Lives of the Fink Rat Circle](https://github.com/Changissnz/a_tidbit_on_the_lives_of_the_fink_rat_circle__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A realistic description of some of the underlying character traits of America's economic problems.
 - [Acknowledging Some Sentiments](https://github.com/Changissnz/acknowledging_some_sentiments__claude_generated)
   - source: Claude Sonnet 4.6
   - A short story about a man that will probably never smile, in innocence, again.  
