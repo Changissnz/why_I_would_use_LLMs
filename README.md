@@ -1,4 +1,4 @@
-# Why I Would Use LLMS
+# Why I Would Use LLMs
 ## written by: Richard Pham 
 
 An explanation for why someone like me is obliged to jump on the LLM trend; LLMs are here to stay. 
