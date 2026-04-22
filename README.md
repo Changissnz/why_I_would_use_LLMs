@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Truth Is Your Politics Was Killing Me](https://github.com/Changissnz/the_truth_is_your_politics_was_killing_me__claude_generated)
+  - source Claude Sonnet 4.6
+  - A fictional tale of a vindictive man turned vigilante that deals with an Epstein-like associate. Writing bears no factual relevance to the deceased real-life Jeffrey Epstein. 
 - [The Black Hand's Business: From Social Media to AI](https://github.com/Changissnz/the_black_hand-s_business_from_social_media_to_AI__claude_generated)
   - source: Claude Sonnet 4.6
   - A realistic tale of one of America's finest criminals, who used to thrive on selling information from social media sites and then smoothly transitioned into the A.I. business. 
