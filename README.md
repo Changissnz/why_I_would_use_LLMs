@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Black Hand's Business: From Social Media to AI](https://github.com/Changissnz/the_black_hand-s_business_from_social_media_to_AI__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A realistic tale of one of America's finest criminals, who used to thrive on selling information from social media sites and then smoothly transitioned into the A.I. business. 
 - [You Deserve a Bullet to the Face](https://github.com/Changissnz/you_deserve_a_bullet_to_the_face__claude_generated)
   - source: Claude Sonnet 4.6
   - A story about a man killing twelve people for doing things that he believed failed him. 
