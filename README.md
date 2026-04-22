@@ -17,7 +17,7 @@ Here are my public Github projects that showcase the use of mainstream LLMs:
   - A realistic description of some of the underlying character traits of America's economic problems.
 - [Acknowledging Some Sentiments](https://github.com/Changissnz/acknowledging_some_sentiments__claude_generated)
   - source: Claude Sonnet 4.6
-  - A short story about a man that will probably never smile, in innocence, again.  
+  - A short story about a man that will probably never smile in innocence, again.  
 - [The Problems Keep Spilling](https://github.com/Changissnz/the_problems_keep_spilling__claude_generated)
   - source: Claude Sonnet 4.6
   - A short story on social organization apparently gone wrong, taking place in the ghetto. 
