@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [](https://github.com/Changissnz/you_deserve_a_bullet_to_the_face__claude_generated)
+  - source: Claude Sonet 4.6
+  - A story about a man killing twelve people for doing things that he believed failed him. 
 - [The Nympho, Made Line Robbing](https://github.com/Changissnz/the_nympho__made_line_robbing__claude_generated)
   - source: Claude Sonnet 4.6
   - A tale on a woman named Made Line Robbing, a nympho and seductress behind robbery until one day, the wrong target was tried. 
