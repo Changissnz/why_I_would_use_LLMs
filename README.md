@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Life of a Relative of Sigyn Thornprikkensen](https://github.com/Changissnz/the_life_of_a_relative_of_sigyn_thornprikkensen__claude_generated)
+  - source: Claude Sonnet 4.6  
+  - A tale about a relative of the Sigyn Thornprikkensen, from the novel, Such Utter Romantics of Florida: Of Fiction and Fantasia.  
 - [A Modern Day Improper Inquisition Into A Man](https://github.com/Changissnz/a_modern_day_improper_inquisition_into_a_man__claude_generated)
   - source: Claude Sonnet 4.6  
   - A fictional dialogue takes place during a session of enhanced interrogation. The content suggests bad blood had been building up for some time up to that point.  
