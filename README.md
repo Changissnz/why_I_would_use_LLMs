@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Martinezes and the American Deep South](https://github.com/Changissnz/the_martinezes_and_the_american_deep_south)
+  - source: Claude Sonnet 4.6  
+  - Some of the biggest facts make some things inevitable. But this story is about two brothers cancelling their affair with the USA, for personal reasons of course.  
 - [The Life of a Relative of Sigyn Thornprikkensen](https://github.com/Changissnz/the_life_of_a_relative_of_sigyn_thornprikkensen__claude_generated)
   - source: Claude Sonnet 4.6  
   - A tale about a relative of the Sigyn Thornprikkensen, from the novel, Such Utter Romantics of Florida: Of Fiction and Fantasia.  
