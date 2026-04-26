@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Kyle's Lover, Cegge Thornprigungensen](https://github.com/Changissnz/kyle-s_lover_cegge_thornprigungensen__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A tale involving Kyle, the successful businessman in the American Deep South, from another tale. 
 - [A Modern Day Businessman in the Deep South](https://github.com/Changissnz/a_modern_day_businessman_in_the_deep_south__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized tale of an American businessman in the contemporary Deep South. 
