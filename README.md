@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Han-Ri and Maiden-Dick Veerashnu are a Strange Couple](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_are_a_strange_couple__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized tale exemplifying the American melting pot, as well as a subplot on love at first sight. 
 - [Jhennah Sutterson, Another Southern Darling](https://github.com/Changissnz/jhennah_sutterson_another_southern_darling__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized tale about one of America's Southern darlings, from her thrilling times up to her marriage in dire times. 
