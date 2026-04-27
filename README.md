@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [On the Orders of Hector Ortega](https://github.com/Changissnz/on_the_orders_of_hector_ortega__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A sub-plot, concerning Hector Ortega, that many assume might have been a great cause for the man's downfall.
 - [Han-Ri and Maiden-Dick Veerashnu are a Strange Couple](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_are_a_strange_couple__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized tale exemplifying the American melting pot, as well as a subplot on love at first sight. 
