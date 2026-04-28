@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Society and the Individual](https://github.com/Changissnz/the_society_and_the_individual__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An article showcasing why even though being an individual can be hard, there was a lot meant to not be not being an individual. 
 - [Mikhail, Brother of Montagua Darovich](https://github.com/Changissnz/mikhail_brother_of_montagua_darovich__claude_generated)
   - source: Claude Sonnet 4.6
   - A sequel to a story on a man named Jan, in pursuit of his love at first sight. 
