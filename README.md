@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Officer Smith's Ending Years at the DOJ](https://github.com/Changissnz/officer_smith-s_ending_years_at_the_DOJ__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized briefing of Officer Smith's last years as an LEO. This is the Officer Smith from the story, Changes in Law & Order in America. 
 - [Changes in Law & Order in America](https://github.com/Changissnz/changes_in_law_and_order_in_america__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized tale about a man from Hispania that has made an orderly and positive mark on the changing face of American society. Mentions characters from some other stories. 
