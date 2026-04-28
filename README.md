@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Mikhail, Brother of Montagua Darovich](https://github.com/Changissnz/mikhail_brother_of_montagua_darovich__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A sequel to a story on a man named Jan, in pursuit of his love at first sight. 
 - [On the Orders of Hector Ortega](https://github.com/Changissnz/on_the_orders_of_hector_ortega__claude_generated)
   - source: Claude Sonnet 4.6
   - A sub-plot, concerning Hector Ortega, that many assume might have been a great cause for the man's downfall.
