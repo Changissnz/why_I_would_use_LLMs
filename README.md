@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Changes in Law & Order in America](https://github.com/Changissnz/changes_in_law_and_order_in_america__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized tale about a man from Hispania that has made an orderly and positive mark on the changing face of American society. Mentions characters from some other stories. 
 - [The Society and the Individual](https://github.com/Changissnz/the_society_and_the_individual__claude_generated)
   - source: Claude Sonnet 4.6
   - An article showcasing why even though being an individual can be hard, there was a lot meant to not be not being an individual. 
