@@ -9,6 +9,12 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Legacy of Victory](https://github.com/Changissnz/the_legacy_of_victory__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A short political philosophy essay on the corrupting influence of perpetuating victory by legacy.
+- [So That There is No Point](https://github.com/Changissnz/so_that_there_is_no_point__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A short political philosophy article on the questionable power of knowledge in alliances.
 - [Officer Smith's Ending Years at the DOJ](https://github.com/Changissnz/officer_smith-s_ending_years_at_the_DOJ__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized briefing of Officer Smith's last years as an LEO. This is the Officer Smith from the story, Changes in Law & Order in America. 
