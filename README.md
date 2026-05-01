@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [A Little Story on Hispania's Meteoric Rise](https://github.com/Changissnz/a_little_story_on_hispania-s_meteoric_rise__claude_generated)
+  - source: Claude Sonnet 4.6
+  - Ashtabanos Morichito finds another woman and also embarks on political activism. 
 - [Talking to a Republican Elder](https://github.com/Changissnz/talking_to_a_republican_elder__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional conversation between an angry young man and a Republican Elder. Conversation is on socio-economic problems and ideological deception. 
