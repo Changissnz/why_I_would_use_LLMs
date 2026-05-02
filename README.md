@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Khaterina Smith, From Schlavia For America](https://github.com/Changissnz/khaterina_smith_from_schlavia_for_america__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized tale and description of Khaterina, wife of Officer Smith, during her professional years to near the time when Officer Smith was able to retire. 
 - [A Little Story on Hispania's Meteoric Rise](https://github.com/Changissnz/a_little_story_on_hispania-s_meteoric_rise__claude_generated)
   - source: Claude Sonnet 4.6
   - Ashtabanos Morichito finds another woman and also embarks on political activism. 
