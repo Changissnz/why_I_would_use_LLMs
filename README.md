@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Camel Boy "Kill Everyone" Shanking Teen](https://github.com/Changissnz/camel_boy_kill-everyone_shanking_teen__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized tale of a man that went by the name "Camel Boy", an asset of Hispania during its expansion and rise in America. 
 - [Khaterina Smith, From Schlavia For America](https://github.com/Changissnz/khaterina_smith_from_schlavia_for_america__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized tale and description of Khaterina, wife of Officer Smith, during her professional years to near the time when Officer Smith was able to retire. 
