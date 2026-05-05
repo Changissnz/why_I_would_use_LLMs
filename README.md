@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Hector Ortega Card](https://github.com/Changissnz/the_hector_ortega_card)
+  - source: ChatGPT
+  - A fictional Yu-Gi-Oh! card of Hector Ortega. 
 - [President Crumbs Helped Hispania by Saving Brittania From Murder](https://github.com/Changissnz/president_crumbs_helped_hispania_by_saving_brittania_from_murder__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized account of the circumstances surrounding American President Crumbs during the years of Hispania's meteoric rise. 
