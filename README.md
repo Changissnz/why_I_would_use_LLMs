@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The President Crumbs' Era in One Nutshell](https://github.com/Changissnz/the_president_crumbs_era_in_one_nutshell__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A synopsis of the fictional American President Crumbs' administration.
 - [Sigyn Thornprikkensen Died Fast in a Declining America](https://github.com/Changissnz/sigyn_thornprikkensen_died_fast_in_a_declining_america__grok_generated)
   - source: Grok
   - A fictional story on Sigyn Thornprikkensen, a minor character from some of the other LLM-generated stories. 
