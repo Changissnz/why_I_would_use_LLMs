@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [How Neoliberals Before President Crumbs Did Things](https://github.com/Changissnz/how_neoliberals_before_president_crumbs_did_things__claude_generated/blob/main/README.md)
+  - source: Claude Sonnet 4.6
+  - A short description of the fictional neoliberals before the fictional American President Crumbs gained official power. 
 - [Map of Hispania](https://github.com/Changissnz/map_of_hispania__chatgpt_generated)
   - source: ChatGPT
   - A map of the fictionalized Hispania that my LLM writing has been referencing.
