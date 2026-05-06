@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Hispania: Insecure But All the More Powerful](https://github.com/Changissnz/hispania_insecure_but_all_the_more_powerful__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized account of Hispania's ugly trait of insecurity that seemed to do it no harm during its meteoric rise.  
 - [The President Crumbs' Era in One Nutshell](https://github.com/Changissnz/the_president_crumbs_era_in_one_nutshell__claude_generated)
   - source: Claude Sonnet 4.6
   - A synopsis of the fictional American President Crumbs' administration.
