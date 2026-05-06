@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Sigyn Thornprikkensen Died Fast in a Declining America](https://github.com/Changissnz/sigyn_thornprikkensen_died_fast_in_a_declining_america__grok_generated)
+  - source: Grok
+  - A fictional story on Sigyn Thornprikkensen, a minor character from some of the other LLM-generated stories. 
 - [The Hector Ortega Card](https://github.com/Changissnz/the_hector_ortega_card)
   - source: ChatGPT
   - A fictional Yu-Gi-Oh! card of Hector Ortega. 
