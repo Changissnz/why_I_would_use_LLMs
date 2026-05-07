@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [A Musing By the Arch Demon Dalai Lie Mach](https://github.com/Changissnz/a_musing_by_the_arch_demon_dalai_lie_mach__claude_generated)
+  - source: Claude Sonnet 4.6
+  - I wrote most of this. Claude Sonnet 4.6 made some edits in formatting. 
 - [Brittania's Bots at Your Service](https://github.com/Changissnz/brittania-s_bots_at_your_service__claude_generated)
   - source: Claude Sonnet 4.6
   - A description focusing on the fictionalized Brittania, nearing the end of the first half of the 21st century. 
