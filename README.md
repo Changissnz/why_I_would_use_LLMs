@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Han-Ri and Maiden-Dick Veerashnu Attend Church](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_attend_church__claude_generated)
+  - source: Claude Sonnet 4.6
+  -  Han-Ri and Maiden-Dick attend mass at the 58th Church of Hispania, during some marriage problems. 
 - [A Musing By the Arch Demon Dalai Lie Mach](https://github.com/Changissnz/a_musing_by_the_arch_demon_dalai_lie_mach__claude_generated)
   - source: Claude Sonnet 4.6
   - I wrote most of this. Claude Sonnet 4.6 made some edits in formatting. 
