@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Brittania Sure Loves Its Bubbles](https://github.com/Changissnz/brittania_sure_loves_its_bubbles__claude_generated)
+  - source: Claude Sonnet 4.6
+  - Some facets, unpleasant or not, about Brittania during some unspecified contemporary time period. 
 - [Brittania Wanted to Matter](https://github.com/Changissnz/brittania_wanted_to_matter__claude_generated)
   - source: Claude Sonnet 4.6
   - An elaboration on the fictionalized Brittania during the second quarter of the 21st century. 
