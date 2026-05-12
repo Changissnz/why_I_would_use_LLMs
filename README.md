@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Brittania Wanted to Matter](https://github.com/Changissnz/brittania_wanted_to_matter__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An elaboration on the fictionalized Brittania during the second quarter of the 21st century. 
 - [Han-Ri and Maiden-Dick Veerashnu Attend Church](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_attend_church__claude_generated)
   - source: Claude Sonnet 4.6
   -  Han-Ri and Maiden-Dick attend mass at the 58th Church of Hispania, during some marriage problems. 
