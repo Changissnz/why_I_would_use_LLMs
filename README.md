@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [The Crumbs Economy Made Trenches](https://github.com/Changissnz/the_crumbs_economy_made_trenches__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A general description of how fictional American President Crumbs handled the A.I. problem. 
 - [Brittania Sure Loves Its Bubbles](https://github.com/Changissnz/brittania_sure_loves_its_bubbles__claude_generated)
   - source: Claude Sonnet 4.6
   - Some facets, unpleasant or not, about Brittania during some unspecified contemporary time period. 
