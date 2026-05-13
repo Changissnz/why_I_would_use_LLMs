@@ -11,7 +11,7 @@ weapon systems and the destruction of the job market.
 Here are my public Github projects that showcase the use of mainstream LLMs: 
 - [More on the Societal Issues Under the Crumbs Administration](https://github.com/Changissnz/more_on_the_societal_issues_under_the_crumbs_administration__claude_generated)
   - source: Claude Sonnet 4.6
-  - A description of two fictional female characters that exemplify the axial transition of Western power from Brittania to Hispania. 
+  - A description of two fictional female characters that exemplifies the axial transition of Western power from Brittania to Hispania. 
 - [Still in Denial Under the Crumbs Administration](https://github.com/Changissnz/still_in_denial_under_the_crumbs_administration__claude_generated)
   - source: Claude Sonnet 4.6
   - An abstract and jaded allusion to the issues harbored during the rule of the fictional American President Crumbs.
