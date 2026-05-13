@@ -9,6 +9,12 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Unsolvable Trends in the West](https://github.com/Changissnz/unsolvable_trends_in_the_west__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An elaboration of some things that occurred in the United States under the fictional American president Crumbs.
+- [Kimboyfon: A Case of Nurturing Personality Defects](https://github.com/Changissnz/kimboyfon_a_case_of_nurturing_personality_defects__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A profile of a fictional character named Kimboyfon during the years of the rule of the fictional American president Crumbs. 
 - [More on the Societal Issues Under the Crumbs Administration](https://github.com/Changissnz/more_on_the_societal_issues_under_the_crumbs_administration__claude_generated)
   - source: Claude Sonnet 4.6
   - A description of two fictional female characters that exemplifies the axial transition of Western power from Brittania to Hispania. 
