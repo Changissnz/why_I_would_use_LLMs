@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Under the Rule of Crumbs, Trouble Continued On](https://github.com/Changissnz/under_the_rule_of_crumbs_trouble_continued_on__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An account of American suburbia and related matters under the fictional American president Crumbs. Mostly written by me, edited by Claude Sonnet 4.6. 
 - [Unsolvable Trends in the West](https://github.com/Changissnz/unsolvable_trends_in_the_west__claude_generated)
   - source: Claude Sonnet 4.6
   - An elaboration of some things that occurred in the United States under the fictional American president Crumbs.
