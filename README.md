@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Crumbs: The President of the Betting Man](https://github.com/Changissnz/crumbs_the_president_of_the_betting_man__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A story on how the fictional American President Crumbs was a staunch ally of the betting man.
 - [The Hell of Crumbs Fed Hispania](https://github.com/Changissnz/the_hell_of_crumbs_fed_hispania__claude_generated)
   - source: Claude Sonnet 4.6
   - Another fictional story about the Crumbs administration's intricate relationship with Hispania. 
