@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Brittania's Follies Rest with Its People](https://github.com/Changissnz/brittania-s_follies_rest_with_its_people__claude_generated)
+  - source: Claude Sonnet 4.6
+  - Some elaboration on characters from Brittania and Germania, further adding evidence to Brittania's undeniable decline during the rule of American President Crumbs.
 - [Feelings Grew Hard Under the Rule of Crumbs](https://github.com/Changissnz/feelings_grew_hard_under_the_rule_of_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional account of cultural transformation in underground sentiment during the rule of American President Crumbs.
