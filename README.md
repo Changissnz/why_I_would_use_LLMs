@@ -11,7 +11,7 @@ weapon systems and the destruction of the job market.
 Here are my public Github projects that showcase the use of mainstream LLMs: 
 - [Feelings Grew Hard Under the Rule of Crumbs](https://github.com/Changissnz/feelings_grew_hard_under_the_rule_of_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
-  - A fictional account of cultural transformation in underground sentiment during the rule of Crumbs.
+  - A fictional account of cultural transformation in underground sentiment during the rule of American President Crumbs.
 - [Crumbs: The President of the Betting Man](https://github.com/Changissnz/crumbs_the_president_of_the_betting_man__claude_generated)
   - source: Claude Sonnet 4.6
   - A story on how the fictional American President Crumbs was a staunch ally of the betting man.
