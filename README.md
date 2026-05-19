@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Of Trends, Types, and Truths in Narration](https://github.com/Changissnz/of_trends_types_and_truths_in_narration__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A short explanatory essay on some of the wording used in two previous writings.
 - [Imperial Inconsistencies Exposed Under Crumbs](https://github.com/Changissnz/imperial_inconsistencies_exposed_under_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional expository on inconsistencies of statecraft during the rule of Crumbs. 
