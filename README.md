@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Who Made Pandora's Box for Crumbs to Open](https://github.com/Changissnz/who_made_pandora-s_box_for_crumbs_to_open__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A rhetorical overview of the dilemmas the fictional American President Crumbs' administration let out to the public. 
 - [Of Trends, Types, and Truths in Narration](https://github.com/Changissnz/of_trends_types_and_truths_in_narration__claude_generated)
   - source: Claude Sonnet 4.6
   - A short explanatory essay on some of the wording used in two previous writings.
