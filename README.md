@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Bad Blood Turned Toxic Under Crumbs](https://github.com/Changissnz/bad_blood_turned_toxic_under_crumbs__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A story that builds up on some of the points made in "Feelings Grew Hard Under the Rule of Crumbs".
 - [Who Made Pandora's Box for Crumbs to Open](https://github.com/Changissnz/who_made_pandora-s_box_for_crumbs_to_open__claude_generated)
   - source: Claude Sonnet 4.6
   - A rhetorical overview of the dilemmas the fictional American President Crumbs' administration let out to the public. 
